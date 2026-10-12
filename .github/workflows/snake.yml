@@ -1,25 +1,21 @@
 name: Generate Snake Animation
 on:
   schedule:
-    - cron: "0 0 * * *"   # 每天 0 点跑一次
-  workflow_dispatch:        # 允许手动触发
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
       - name: Generate snake.svg from contribution graph
         uses: Platane/snk@v3
         with:
-          uses_workflow: |
-            username: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: Gresdy
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           args: |
             --palette github-light
             --darkPalette github-dark
