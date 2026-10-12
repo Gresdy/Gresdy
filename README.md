@@ -9,9 +9,18 @@
 
 **🤖 AI Agent & 数字孪生 · 北京**
 
+<img src="https://img.shields.io/badge/🌟_FEATURED_PROJECT-4ade80?style=for-the-badge" alt="Featured" />
+&nbsp;
+<img src="https://img.shields.io/badge/📅_2026_Active-22c55e?style=for-the-badge" alt="Active 2026" />
+&nbsp;
+<img src="https://img.shields.io/badge/🏗️_Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+
+<br/><br/>
+
 [![GitHub followers](https://img.shields.io/github/followers/Gresdy?label=Followers&style=for-the-badge&logo=github&color=4ade80)](https://github.com/Gresdy)
 [![Profile views](https://komarev.com/ghpvc/?username=Gresdy&label=Profile+Views&color=4ade80&style=for-the-badge)](https://github.com/Gresdy)
 [![Stars](https://img.shields.io/github/stars/Gresdy?label=Total+Stars&style=for-the-badge&color=4ade80)](https://github.com/Gresdy)
+[![Wakatime](https://wakatime.com/badge/user/Gresdy.svg?style=for-the-badge)](https://wakatime.com)
 
 </div>
 
@@ -81,16 +90,50 @@
 
 ---
 
-## 📌 Pinned Repositories
+## 📝 Latest from Blog
 
-| 项目 | 主题 | 说明 |
-|---|---|---|
-| 🤖 [saline-alkali-decision-platform](https://github.com/Gresdy/saline-alkali-decision-platform) | 数字孪生 | 3D 农场决策平台 (Three.js + 7 个场景) |
-| 🦌 [deer-flow](https://github.com/Gresdy/deer-flow) | AI Agent | 字节开源 deep research 框架 |
-| 📚 [AI-For-Beginners](https://github.com/Gresdy/AI-For-Beginners) | AI 教学 | 微软 12 周 24 节 AI 入门课 |
-| 🧠 [IntentLoom](https://github.com/Gresdy/IntentLoom) | LLM 工具 | 意图编织 (本地) |
-| 📝 [gresdy.github.io](https://github.com/Gresdy/gresdy.github.io) | 个人博客 | 主页 + 技术笔记 |
-| 🌟 [GitHub-Chinese-Top-Charts](https://github.com/Gresdy/GitHub-Chinese-Top-Charts) | 精选 | 中文 GitHub 高分项目导航 |
+<!-- BLOG-POST-LIST:START -->
+- 🔧 [搭建数字孪生 3D 农场决策平台](https://github.com/Gresdy/gresdy.github.io) — 2026-10-12
+- 🐍 [Three.js + 6 块田分散布局的实现细节](https://github.com/Gresdy/gresdy.github.io) — 2026-10-10
+- 🤖 [AI Agent 决策流的 4 个核心模式](https://github.com/Gresdy/gresdy.github.io) — 2026-10-08
+- 🌱 [数字农业:从传感器到决策的闭环](https://github.com/Gresdy/gresdy.github.io) — 2026-10-01
+<!-- BLOG-POST-LIST:END -->
+
+> 💡 上面是示例列表。要自动同步真实文章,把 `gresdy.github.io` 的 RSS URL 发我,
+> 我用 `gautamkrishnar/blog-post-workflow` Action 自动每周抓取并更新这块。
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+| | 项目 | 主题 | 简介 |
+|:---:|:---|:---|:---|
+| 🤖 | **[saline-alkali-decision-platform](https://github.com/Gresdy/saline-alkali-decision-platform)** | 数字孪生 | 3D 农场决策平台 · 7 个场景 · Three.js |
+| 🦌 | **[deer-flow](https://github.com/Gresdy/deer-flow)** | AI Agent | 字节 deep research 框架 fork |
+| 📚 | **[AI-For-Beginners](https://github.com/Gresdy/AI-For-Beginners)** | AI 教学 | 微软 12 周 24 节 AI 入门课 |
+| 🧠 | **[IntentLoom](https://github.com/Gresdy/IntentLoom)** | LLM 工具 | 意图编织 · 本地推理 |
+| 📝 | **[gresdy.github.io](https://github.com/Gresdy/gresdy.github.io)** | 个人博客 | 主页 + 技术笔记 |
+| 🌟 | **[GitHub-Chinese-Top-Charts](https://github.com/Gresdy/GitHub-Chinese-Top-Charts)** | 精选 | 中文 GitHub 高分项目导航 |
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+> *每天 UTC 0 点自动从贡献图生成,吃掉你的绿格子 😋*
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gresdy/Gresdy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gresdy/Gresdy/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gresdy/Gresdy/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<sub>📌 第一次跑需要去 [Actions 页面](https://github.com/Gresdy/Gresdy/actions) 手动触发一次 "Generate Snake Animation" workflow,生成 SVG 后这张图才能显示</sub>
 
 ---
 
@@ -100,6 +143,7 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Gresdy)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1248824030@qq.com)
+[![Blog](https://img.shields.io/badge/-Blog-22c55e?style=for-the-badge&logo=ghost&logoColor=white)](https://github.com/Gresdy/gresdy.github.io)
 
 <sub>📊 Last updated: 2026-10-12 · Built with ❤️ by Codex</sub>
 
