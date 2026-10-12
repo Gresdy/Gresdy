@@ -9,14 +9,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate snake.svg from contribution graph
+      - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: Gresdy
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          args: --palette github-light --darkPalette github-dark --cl snakes --size 1280x640 --space 4 --brightness 0.7 --contrast 0.6
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Push to output branch
         run: |
